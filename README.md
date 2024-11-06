@@ -1,9 +1,10 @@
 
 # 23BG Web Development Assignment: Clay.com Clone
+This is made by @Parv-gugnani
 
 ## Objective
 
-The goal of this assignment is to create a clone of [Clay.com](https://www.clay.com) with a personalized touch for **23BG** using **Next.js** and **TailwindCSS**. You will work on cloning any **one page** from the site, ensuring it is fully **responsive**.
+
 
 ## Steps to Complete the Assignment
 
