@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  @font-face {
+    font-family: Roobert;
+    src: url(./assets/fonts/Roobert-Regular.woff2);
+  }
+  @font-face {
+    font-family: Roobert-medium;
+    src: url(./assets/fonts/Roobert-Medium.woff2);
+  }
+  @font-face {
+    font-family: Roobert-semibold;
+    src: url(./assets/fonts/Roobert-SemiBold.woff2);
+  }
+}
