@@ -1,50 +1,36 @@
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-# 23BG Web Development Assignment: Clay.com Clone
+## Getting Started
 
-## Objective
+First, run the development server:
 
-The goal of this assignment is to create a clone of [Clay.com](https://www.clay.com) with a personalized touch for **23BG** using **Next.js** and **TailwindCSS**. You will work on cloning any **one page** from the site, ensuring it is fully **responsive**.
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-## Steps to Complete the Assignment
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-1. **Fork the Repository:**
-   - Start by forking the web-dev repository from 23BG.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-2. **Create a New Branch:**
-   - Create a branch named after **your name** in the forked repository.  
-   - Example: If your name is "John Doe," create a branch called `john-doe`.
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-3. **Set Up the Project:**
-   - Set up a **Next.js** project and install **TailwindCSS** for styling.
-   - You will clone **one page** from Clay.com and ensure that the page:
-     - Uses **Next.js** for routing and page structure.
-     - Utilizes **TailwindCSS** for responsive and clean design.
-     - Reflects the **23BG** brand (colors, logos, or any other changes you find relevant).
-   
-4. **Make It Responsive:**
-   - Ensure that the page works seamlessly across different screen sizes, from mobile to desktop.
+## Learn More
 
-5. **Push Your Code:**
-   - Push your code to the branch you created.
-   - **Do not make a merge request**—the project should stay on your branch.
+To learn more about Next.js, take a look at the following resources:
 
-6. **Deploy the Project:**
-   - Host the cloned page live (using any platform such as Vercel, Netlify, etc.).
-   - Share the live link with me.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-7. **Notify Me:**
-   - Once your work is done, notify me via:
-     - **Wellfound (AngelList)** OR
-     - **Email**: iamprathameshmore07@gmail.com
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## What We Are Looking For:
-- Proficiency in **Next.js** routing.
-- Correct use of **TailwindCSS** for clean, responsive design.
-- Attention to detail in cloning the page while branding it as **23BG**.
-- Efficient code structure and best practices.
+## Deploy on Vercel
 
-## Additional Information
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-This is a test of your **design** and **development** skills, along with your ability to adapt a project to fit the **23BG** brand. Focus on quality, responsiveness, and branding.
-
-We look forward to seeing your work!
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
